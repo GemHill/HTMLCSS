@@ -12,4 +12,13 @@ p {
 	color: black
 	font-family: Helvetica
 	font-size: 12px
+
+
+.ptype {
+	font-size: 12px;
+	font-family: serif;
+}
+
+#different {
+	color: red;
 }
