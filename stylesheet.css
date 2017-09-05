@@ -4,14 +4,14 @@ body {
 
 h1 {
 	color: blue;
-	font-family: verdana
+	font-family: Verdana;
 }
 
 p {
 	color: black;
 	font-family: Helvetica;
 	font-size: 12px;
-
+}
 
 .ptype {
 	font-size: 12px;
