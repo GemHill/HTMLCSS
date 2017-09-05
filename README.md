@@ -18,7 +18,7 @@ This will set up a folder for your repository on your computer
 This should show you a list of files in red. This is expected
 * Type `git add .`
   * You may see a message asking you to write a commit message. Write a message describing what you've added (or committed) to the repo. 'Initial commit' is fine here. This will add your files to the git respository
-* Make changes to the files on your computer as you would normally
+* Make changes to the files on your computer, and save as you would normally
 * In the terminal, make sure you're in the new directory `cd <repository name>`, then try git status
  * You should see a message about there being some changes not staged for commit.
 * Type `git add <filename>` or `git add .` to add all files
@@ -26,3 +26,8 @@ This should show you a list of files in red. This is expected
 * Type `git commit -m "describe your change here"`
  * You can type `git status` again here, which will tell you to push your changes
 * Type `git push` 
+ * You may be asked to enter your GitHub undername and password here
+* Type `git status`, you should see the following message 
+> On branch master
+> Your branch is up-to-date with 'origin/master'.
+> nothing to commit, working directory clean
