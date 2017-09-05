@@ -26,3 +26,8 @@ This should show you a list of files in red. This is expected
 * Type `git commit -m "describe your change here"`
  * You can type `git status` again here, which will tell you to push your changes
 * Type `git push` 
+ * You may be asked to enter your GitHub undername and password here
+* Type `git status`, you should see the following message 
+> On branch master
+> Your branch is up-to-date with 'origin/master'.
+> nothing to commit, working directory clean
