@@ -1,11 +1,14 @@
 # MGG-HTML-CSS
 
 # Contents
-1. [Set up GitHub pages for the first time](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-exisitng-repo)
 
+1. [Set up Github pages for the first time](https://github.com/GemHill/HTMLCSS#set-up-github-pages-for-the-first-time)
+2. [Edit files in an existing repo](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-exisitng-repo)
+3. [Resources and links](https://github.com/GemHill/HTMLCSS#resources-and-tips)
 
 
 ## Set up Github pages for the first time
+** You only have to do this once per repo, if you have a owrking site for your repo, you can [skip to the next section](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-exisitng-repo)
 A respository for material for the September 2017 intro to HTML/CSS/Github event
 
 To set up git on your computer, see Github's instructions here: https://help.github.com/articles/set-up-git/
@@ -42,7 +45,7 @@ This should show you a list of files in red. This is expected
 * Scroll down to the 'Github pages' section, select master branch from the dropdown, click save
 * Your site will be available at https://username.github.io/repositoryname (change username to your gitbug username and repositoryname to the name of your github repo
 
-## Edit files in an exisitng repo
+## Edit files in an existing repo
 ### Through github
 
 If you are the owner of the github repo, then you can edit directly through Github
@@ -69,3 +72,5 @@ If you want to edit the files on your computer and push them to git using the co
 * These can be found in the resouce file, which can be viewed on Github
 * If you want to add another page, make another file with the extension .html (contact.html for example). Open notepad or notepad++ or sublime and create a new file, saving it as filename.html. 
    * Copy the section between the `<head>` and `</head>` tag in your index.html file and then put the rest of the copy in as you wish between `<body>` and `</body>` tags
+* Github has decent documentation [here](https://guides.github.com/) and google is your friend
+* [Codecademy](https://www.codecademy.com/) also has git and html/css/other language resources to extend your site further
