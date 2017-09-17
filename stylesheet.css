@@ -25,3 +25,7 @@ p {
 #different {
 	color: red;
 }
+
+#test_email {
+display: none;
+}
