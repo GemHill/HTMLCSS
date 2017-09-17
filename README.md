@@ -1,5 +1,10 @@
 # MGG-HTML-CSS
 
+# Contents
+1. [Set up GitHub pages for the first time](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-exisitng-repo)
+
+
+
 ## Set up Github pages for the first time
 A respository for material for the September 2017 intro to HTML/CSS/Github event
 
