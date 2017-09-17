@@ -55,7 +55,7 @@ If you want to edit the files on your computer and push them to git using the co
 * Type `git status` and press enter. You should see a message about changes not staged for commit
 * Type `git add .` and press enter
 * Type `git commit -m "commit message here"` and press enter
-** Examples of git commit messages are `git commit -m "Added links"` or `git commit -m "Fixed typo"`
+ * Examples of git commit messages are `git commit -m "Added links"` or `git commit -m "Fixed typo"`
 * Type `git push` and press enter
 * Your changes should be live on the site
 
@@ -63,4 +63,4 @@ If you want to edit the files on your computer and push them to git using the co
 
 * These can be found in the resouce file, which can be viewed on Github
 * If you want to add another page, make another file with the extension .html (contact.html for example). Open notepad or notepad++ or sublime and create a new file, saving it as filename.html. 
-** Copy the section between the `<head>` and `</head>` tag in your index.html file and then put the rest of the copy in as you wish between `<body>` and `</body>` tags
+ * Copy the section between the `<head>` and `</head>` tag in your index.html file and then put the rest of the copy in as you wish between `<body>` and `</body>` tags
