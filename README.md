@@ -4,7 +4,7 @@
 
 1. [Set up Github pages for the first time](https://github.com/GemHill/HTMLCSS#set-up-github-pages-for-the-first-time)
 2. [Edit files in an existing repo](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-existing-repo)
-3. [Resources, troubleshooting, and FAQs](https://github.com/GemHill/HTMLCSS#resources-and-tips)
+3. [Resources, troubleshooting, and tips](https://github.com/GemHill/HTMLCSS#resources-troubleshooting-and-faqs)
 
 
 ## Set up Github pages for the first time
