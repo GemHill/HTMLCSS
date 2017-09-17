@@ -3,7 +3,7 @@
 # Contents
 
 1. [Set up Github pages for the first time](https://github.com/GemHill/HTMLCSS#set-up-github-pages-for-the-first-time)
-2. [Edit files in an existing repo](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-exisitng-repo)
+2. [Edit files in an existing repo](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-existing-repo)
 3. [Resources and links](https://github.com/GemHill/HTMLCSS#resources-and-tips)
 
 
@@ -71,6 +71,6 @@ If you want to edit the files on your computer and push them to git using the co
 
 * These can be found in the resouce file, which can be viewed on Github
 * If you want to add another page, make another file with the extension .html (contact.html for example). Open notepad or notepad++ or sublime and create a new file, saving it as filename.html. 
-   * Copy the section between the `<head>` and `</head>` tag in your index.html file and then put the rest of the copy in as you wish between `<body>` and `</body>` tags
+   * Copy everything in [this file](https://gist.github.com/GemHill/beb4e8b802880541800b2fc9786a793e) at the top of your new page, and then put the rest of the copy in as you wish between `<body>` and `</body>` tags
 * Github has decent documentation [here](https://guides.github.com/) and google is your friend
 * [Codecademy](https://www.codecademy.com/) also has git and html/css/other language resources to extend your site further
