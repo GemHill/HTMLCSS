@@ -4,7 +4,7 @@
 
 1. [Set up Github pages for the first time](https://github.com/GemHill/HTMLCSS#set-up-github-pages-for-the-first-time)
 2. [Edit files in an existing repo](https://github.com/GemHill/HTMLCSS/blob/master/README.md#edit-files-in-an-existing-repo)
-3. [Resources and links](https://github.com/GemHill/HTMLCSS#resources-and-tips)
+3. [Resources, troubleshooting, and FAQs](https://github.com/GemHill/HTMLCSS#resources-and-tips)
 
 
 ## Set up Github pages for the first time
@@ -67,10 +67,26 @@ If you want to edit the files on your computer and push them to git using the co
 * Type `git push` and press enter
 * Your changes should be live on the site
 
-## Resources and tips
+## Resources, troubleshooting, and FAQs
 
-* These can be found in the resouce file, which can be viewed on Github
-* If you want to add another page, make another file with the extension .html (contact.html for example). Open notepad or notepad++ or sublime and create a new file, saving it as filename.html. 
-   * Copy everything in [this file](https://gist.github.com/GemHill/beb4e8b802880541800b2fc9786a793e) at the top of your new page, and then put the rest of the copy in as you wish between the `<body>` and `</body>` tags
+### Resources
+* More ressources can be found in the resouce file, which can be viewed on Github
 * Github has decent documentation [here](https://guides.github.com/) and google is your friend
 * [Codecademy](https://www.codecademy.com/) also has git and html/css/other language resources to extend your site further
+
+### Tips
+* If you want to add another page, make another file with the extension .html (contact.html for example). Open notepad or notepad++ or sublime and create a new file, saving it as filename.html. 
+   * Copy everything in [this file](https://gist.github.com/GemHill/beb4e8b802880541800b2fc9786a793e) at the top of your new page, and then put the rest of the copy in as you wish between the `<body>` and `</body>` tags
+   * See the index.html file in this repo to see how to add links to pages 
+
+### FAQs
+
+_My changes aren't showing up!?_
+* Try waiting a minute or two - it takes a while for github to catch up sometimes. Or open the page in a private window/incognito (Ususally File > New > Private/Incognito in your browser)
+* Check your html has all the closing tags (`</p>` or `</h1>` for example), and your css has all the closing curly brackets ( } after every property)
+
+_Git is doing a weird thing/nothing at all_
+* If you get an error message, google that message. Someone else will have had the same issue, promise
+* `Git status` as often as you want. IT will tell you want git is doing, and what you need to do
+
+
