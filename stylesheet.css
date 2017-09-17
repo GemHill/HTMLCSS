@@ -29,3 +29,7 @@ p {
 #test_email {
 display: none;
 }
+
+a {
+	font-size: 14px;
+}
