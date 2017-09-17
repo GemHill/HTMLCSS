@@ -1,4 +1,6 @@
 # MGG-HTML-CSS
+
+## Set up Github pages for the first time
 A respository for material for the September 2017 intro to HTML/CSS/Github event
 
 To set up git on your computer, see Github's instructions here: https://help.github.com/articles/set-up-git/
@@ -31,3 +33,28 @@ This should show you a list of files in red. This is expected
 > On branch master
 > Your branch is up-to-date with 'origin/master'.
 > nothing to commit, working directory clean
+* Go to your Github repo, and click on the Settings tab
+* Scroll down to the 'Github pages' section, select master branch from the dropdown, click save
+* Your site will be available at https://username.github.io/repositoryname (change username to your gitbug username and repositoryname to the name of your github repo
+
+## Edit files in an exisitng repo
+### Through github
+
+If you are the owner of the github repo, then you can edit directly through Github
+* In your repo, click on the file you wish to edit
+* Click the pencil icon near the top right hand corner 
+* You can then edit the file straight in github
+* When you're done, scroll down, keep the 'Commit directly to the master branch selected'
+* Click Commit changes
+
+### Through the command line
+
+If you want to edit the files on your computer and push them to git using the command line, you can do so
+* Edit the files on your computer as you would any other file
+* Open terminal and type `cd Desktop/HTMLCSS/yourfoldername` or `cd Downloads/HTMLCSS/yourfoldername` (or CD whereyourfolderis)
+* Type `git status` and press enter. You should see a message about changes not staged for commit
+* Type `git add .` and press enter
+* Type `git commit -m "commit message here"` and press enter
+** Examples of git commit messages are `git commit -m "Added links"` or `git commit -m "Fixed typo"`
+* Type `git push` and press enter
+* Your changes should be live on the site
