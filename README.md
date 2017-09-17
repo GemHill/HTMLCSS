@@ -44,7 +44,7 @@ If you are the owner of the github repo, then you can edit directly through Gith
 * In your repo, click on the file you wish to edit
 * Click the pencil icon near the top right hand corner 
 * You can then edit the file straight in github
-* When you're done, scroll down, keep the 'Commit directly to the master branch selected'
+* When you're done, scroll down, keep the 'Commit directly to the master branch' selected
 * Click Commit changes
 
 ### Through the command line
@@ -58,3 +58,9 @@ If you want to edit the files on your computer and push them to git using the co
 ** Examples of git commit messages are `git commit -m "Added links"` or `git commit -m "Fixed typo"`
 * Type `git push` and press enter
 * Your changes should be live on the site
+
+## Resources and tips
+
+* These can be found in the resouce file, which can be viewed on Github
+* If you want to add another page, make another file with the extension .html (contact.html for example). Open notepad or notepad++ or sublime and create a new file, saving it as filename.html. 
+** Copy the section between the `<head>` and `</head>` tag in your index.html file and then put the rest of the copy in as you wish between `<body>` and `</body>` tags
